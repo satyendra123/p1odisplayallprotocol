@@ -9,4 +9,4 @@ Note- when i shift the character at the same time in the both the display then b
 |F|0E    - shfting the character at the left side
 |F|1E    - shift one led right side
 
-Note- agar mujhe 5 rows ki display hai to mujhe 5 cards chahiye rhega data send karne ke liye
+Note- agar mujhe 5 rows ki display hai to mujhe 5 cards chahiye rhega data send karne ke liye RGB display me.
